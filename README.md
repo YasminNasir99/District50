@@ -1,14 +1,7 @@
-# Shaif's Cuisine
+# District50
 
-**A HTML CSS Project**. Mede with ♥ by web cifar community <br>
-live Preview: [Click Me](http://shaif-s-cuisine.netlify.app)
+**A HTML CSS Project**. Mede with ♥ by Yasmin Nasir <br>
 
-![](./readmeImg/banner.png)
+![](./readmeImg/banner.jpeg)
 
-## Developer team of Shaif's Cuisine
-
-1. Shaif Arfan
-1. Anwar saeed
-1. MD Moniruzzaman Sojol
-1. Lovekesh Pal
-1. Houmayan Rashid Chy
+## Final Year Project (FYP) 
